@@ -1,0 +1,6 @@
+Please start service B before service A, as service A will push data to service B at startup
+
+service A is accessible  port 8080 and service B on 8081
+
+Both service can run separately in docker but not able to connect, but due to tight time line am submitting the task,
+so please run on local
